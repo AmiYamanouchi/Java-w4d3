@@ -1,0 +1,8 @@
+package ca.exercise.example;
+
+public class Student {
+
+	private String fName = "John";
+	protected String lName = "Doe";
+	public int score;
+}
